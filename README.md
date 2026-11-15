@@ -1,4 +1,4 @@
-# Containerizing a Spring Boot + Angular App with Docker (WGU D387)
+# Containerizing a Spring Boot + Angular App with Docker
 
 My working notes and write-up from WGU's **D387: Advanced Java** course, focused on the part that taught me the most: packaging a full-stack Java/Angular application into a single Docker image, running it as a container, publishing it to Docker Hub, and planning its deployment to Azure.
 
